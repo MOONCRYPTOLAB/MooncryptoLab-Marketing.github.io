@@ -232,7 +232,6 @@
         <div class="logo-placeholder">+1000</div>
         <!-- Add more logo elements or use <img src="/path/to/logo.png" alt="Client name"> -->
       </div>
-    </section>
 
     <!-- CTA -->
 <section id="contact" class="cta-footer" aria-labelledby="contact-heading">
