@@ -268,6 +268,7 @@
 
   </div>
 </section>
+
     <footer>
       ©️ <span id="year"></span> MoonCrypto_Lab — Built for momentum. • <span style="color:var(--muted)">Made with MOONGOD vibes</span>
     </footer>
