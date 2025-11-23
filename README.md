@@ -235,18 +235,40 @@
     </section>
 
     <!-- CTA -->
-    <section id="contact" class="cta-footer" aria-labelledby="contact-heading">
-      <div>
-        <h3 id="contact-heading" style="margin:0 0 6px 0">Ready to grow your project?</h3>
-        <p style="margin:0;color:var(--muted)">Send us a message and we’ll share a tailored growth plan and a pricing outline.</p>
-      </div>
-      <div class="links" style="display:flex;align-items:center;">
-        <!-- Replace href values with your actual links -->
-        <a href="https://t.me/MOONCYRPTO_LAB" target="_blank" rel="noopener noreferrer" class="cta">Contact on Telegram</a>
-        <a href=https://x.com/MooncryptoLab"target="_blank" rel="noopener noreferrer" class="btn-outline">Twitter/X</a>
-      </div>
-    </section>
+<section id="contact" class="cta-footer" aria-labelledby="contact-heading">
+  <div>
+    <h3 id="contact-heading" style="margin:0 0 6px 0">Ready to grow your project?</h3>
+    <p style="margin:0;color:var(--muted)">Send us a message and we’ll share a tailored growth plan and pricing outline.</p>
+  </div>
 
+  <div class="links" style="display:flex;align-items:center;gap:12px;flex-wrap:wrap;">
+
+    <!-- Telegram -->
+    <a href="https://t.me/MOONCYRPTO_LAB" 
+       target="_blank" 
+       rel="noopener noreferrer" 
+       class="cta">
+      Telegram
+    </a>
+
+    <!-- X (Twitter) -->
+    <a href="https://x.com/MooncryptoLab" 
+       target="_blank" 
+       rel="noopener noreferrer" 
+       class="btn-outline">
+      X (Twitter)
+    </a>
+
+    <!-- Linktree -->
+    <a href="YOUR_LINKTREE_URL_HERE" 
+       target="_blank" 
+       rel="noopener noreferrer" 
+       class="btn-outline">
+      Linktree
+    </a>
+
+  </div>
+</section>
     <footer>
       ©️ <span id="year"></span> MoonCrypto_Lab — Built for momentum. • <span style="color:var(--muted)">Made with MOONGOD vibes</span>
     </footer>
