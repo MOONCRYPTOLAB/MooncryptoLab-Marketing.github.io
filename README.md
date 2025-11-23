@@ -223,8 +223,7 @@
     <!-- PROJECTS / LOGOS -->
     <section id="projects" class="projects" aria-labelledby="projects-heading">
       <h3 id="projects-heading" style="margin:0 0 8px 0">Projects we've worked with</h3>
-      <p style="margin:0 0 12px;color:var(--muted);font-size:14px">Add client logos below — replace the placeholders with actual PNG/SVG logos.</p>
-
+      <p style="margin:0 0 12px;color:var(--muted);font-size:14px">
       <div class="logos">
         <div class="logo-placeholder">Wojak</div>
         <div class="logo-placeholder">Glamslam</div>
@@ -244,7 +243,7 @@
       <div class="links" style="display:flex;align-items:center;">
         <!-- Replace href values with your actual links -->
         <a href="https://t.me/MOONCYRPTO_LAB" target="_blank" rel="noopener noreferrer" class="cta">Contact on Telegram</a>
-        <a href="https://twitter.com/yourhandle" target="_blank" rel="noopener noreferrer" class="btn-outline">Twitter/X</a>
+        <a href="https://twitter.com/@MooncryptoLab target="_blank" rel="noopener noreferrer" class="btn-outline">Twitter/X</a>
       </div>
     </section>
 
