@@ -262,7 +262,7 @@
     </a>
 
     <!-- Linktree -->
-    <a href="YOUR_LINKTREE_URL_HERE" 
+    <a href="https://linktr.ee/MooncryptoLabMarketing"
        target="_blank" 
        rel="noopener noreferrer" 
        class="btn-outline">
