@@ -243,7 +243,7 @@
       <div class="links" style="display:flex;align-items:center;">
         <!-- Replace href values with your actual links -->
         <a href="https://t.me/MOONCYRPTO_LAB" target="_blank" rel="noopener noreferrer" class="cta">Contact on Telegram</a>
-        <a href=https://x.com/MooncryptoLab?t=GPK5a5pVkNr5mvZ7KnJkYw&s=09)target="_blank" rel="noopener noreferrer" class="btn-outline">Twitter/X</a>
+        <a href=https://x.com/MooncryptoLab"target="_blank" rel="noopener noreferrer" class="btn-outline">Twitter/X</a>
       </div>
     </section>
 
