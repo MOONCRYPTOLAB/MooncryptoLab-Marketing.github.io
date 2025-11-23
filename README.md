@@ -158,7 +158,7 @@
     <section class="hero" aria-labelledby="hero-heading">
       <div class="hero-left">
         <span class="tag">Full-stack Web3 Marketing</span>
-        <h2 id="hero-heading">We don’t promote projects — we <strong>make them go viral.</strong></h2>
+        <h2 id="hero-heading">We don’t promote projects — we <strong>make them successful and put them at the top.</strong></h2>
         <p>MoonCrypto_Lab builds attention, trust, and momentum for DeFi, NFTs, GameFi, and memecoin projects. From presale hype to CEX listing — we create narratives that convert followers into holders.</p>
 
         <div class="hero-actions">
