@@ -224,6 +224,8 @@
     <section id="projects" class="projects" aria-labelledby="projects-heading">
       <h3 id="projects-heading" style="margin:0 0 8px 0">Projects we've worked with</h3>
       <p style="margin:0 0 12px;color:var(--muted);font-size:14px">
+      </p>
+      
       <div class="logos">
         <div class="logo-placeholder">Wojak</div>
         <div class="logo-placeholder">Glamslam</div>
@@ -232,6 +234,7 @@
         <div class="logo-placeholder">+1000</div>
         <!-- Add more logo elements or use <img src="/path/to/logo.png" alt="Client name"> -->
       </div>
+     </section> 
 
     <!-- CTA -->
 <section id="contact" class="cta-footer" aria-labelledby="contact-heading">
